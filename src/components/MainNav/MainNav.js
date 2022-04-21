@@ -63,12 +63,8 @@ const MainNav = () => {
           <option value="Eng" selected>
             Eng
           </option>
-          <option value="Ger" selected>
-            Ger
-          </option>
-          <option value="Esp" selected>
-            Esp
-          </option>
+          <option value="Ger">Ger</option>
+          <option value="Esp">Esp</option>
         </select>
         <img src={Arrow} alt="arrow" className={classes.arrow} />
       </div>
