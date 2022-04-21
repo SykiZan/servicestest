@@ -1,0 +1,124 @@
+.main-nav {
+  display: flex;
+  align-items: center;
+  height: 74px;
+  padding: 0 40px;
+}
+
+.select-order {
+  height: 44px;
+  width: 167px;
+  padding-left: 24px;
+  margin-left: 30px;
+  border: 1px solid #7238ed;
+  border-radius: 4px;
+
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  background-image: none;
+}
+.select-language {
+  height: 44px;
+  width: 128px;
+  padding-left: 42px;
+  border: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  background-image: none;
+}
+
+.search,
+.select {
+  position: relative;
+}
+
+.search-input {
+  box-sizing: border-box;
+  height: 44px;
+  width: 335px;
+  padding: 14px 52px;
+  font-size: 16px;
+  border: 1px solid #f1f1f1;
+  font-family: inherit;
+  border-radius: 4px;
+  &::placeholder {
+    color: #a8a8a8;
+  }
+}
+.search-icon {
+  position: absolute;
+  left: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.arrow {
+  position: absolute;
+  right: 24px;
+  top: 20px;
+}
+
+.btn-find {
+  background-color: #7238ed;
+  color: #fff;
+  height: 44px;
+  width: 165px;
+  border: none;
+  border-radius: 0 4px 4px 0;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: inherit;
+}
+.btn-sign-in {
+  background-color: #000;
+  color: #fff;
+  height: 44px;
+  width: 113px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-right: 16px;
+}
+.btn-become-expert {
+  background-color: #f2f2f2;
+  color: #000;
+  height: 44px;
+  width: 193px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+@media (max-width: 1202px) {
+  .btn-become-expert,
+  .btn-find,
+  .btn-sign-in {
+    font-size: 14px;
+  }
+}
+
+.suggestions {
+  width: 335px;
+  position: absolute;
+  top: 59px;
+  left: 363px;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(204, 204, 204, 0.425);
+  z-index: 20;
+}
+.suggestion {
+  display: flex;
+  align-items: center;
+  height: 40px;
+  padding-left: 12px;
+  cursor: pointer;
+  &:hover {
+    background-color: rgba(0, 0, 0, 0.61);
+    color: #fff;
+  }
+}

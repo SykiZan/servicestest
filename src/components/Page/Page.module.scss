@@ -1,0 +1,108 @@
+.page {
+  margin-left: 77px;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  margin-top: 159px;
+  margin-bottom: 54px;
+}
+
+.ads-count-label {
+  font-size: 20px;
+  line-height: 26px;
+  color: #7b7b7b;
+}
+.ads-count-number {
+  font-size: 35px;
+  line-height: 64px;
+  font-weight: bold;
+}
+.heading {
+  margin-top: 64px;
+  margin-bottom: 32px;
+  font-size: 64px;
+  line-height: 64px;
+  width: 531px;
+}
+
+.subheading {
+  font-size: 20px;
+  line-height: 26px;
+  width: 531px;
+}
+
+.img-block {
+  position: absolute;
+  top: 126px;
+  right: 15px;
+  width: 721px;
+  height: 776px;
+}
+.worker {
+  position: absolute;
+
+  left: 9px;
+}
+
+.delivery {
+  position: absolute;
+  top: 244px;
+  right: 0;
+}
+
+.skeleton {
+  position: absolute;
+  top: 35px;
+  right: 57px;
+}
+
+.search {
+  position: absolute;
+  top: 359px;
+}
+
+.search-input {
+  background-color: #000;
+  color: #fff;
+  height: 58px;
+  width: 324px;
+  padding-left: 90px;
+  font-size: 20px;
+  border: none;
+  font-family: inherit;
+  border-radius: 8px 8px 8px 0;
+  &::placeholder {
+    color: #fff;
+  }
+}
+.search-icon {
+  position: absolute;
+  left: 54px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.btn {
+  position: absolute;
+  top: 586px;
+  right: 57px;
+  height: 58px;
+  width: 324px;
+  background-color: #f2f2f2;
+  padding-left: 52px;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  border: none;
+  font-family: inherit;
+  border-radius: 8px 8px 0 8px;
+}
+
+@media (max-width: 1280px) {
+  .page {
+    margin-left: 16px;
+  }
+}
