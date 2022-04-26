@@ -1,22 +1,41 @@
 {
   "files": {
-    "main.css": "/servicestest/static/css/main.7fdf2b0e.css",
-    "main.js": "/servicestest/static/js/main.48738814.js",
-    "static/media/delivery.jpg": "/servicestest/static/media/delivery.0c484e9d3f1858a14dda.jpg",
-    "static/media/worker.jpg": "/servicestest/static/media/worker.a4070df456785ee785c8.jpg",
+    "main.css": "/servicestest/static/css/main.c63d8b64.css",
+    "main.js": "/servicestest/static/js/main.58f36ce9.js",
+    "static/media/man-on-arc.png": "/servicestest/static/media/man-on-arc.5f08cd668c4e924e18bf.png",
+    "static/media/people2.png": "/servicestest/static/media/people2.8b7e0abf5b5decad7b58.png",
+    "static/media/sphere.jpg": "/servicestest/static/media/sphere.6e2daf444bfa63bf3b8e.jpg",
+    "static/media/bg.jpg": "/servicestest/static/media/bg.d6cc4ba5b3788cb70e0d.jpg",
+    "static/media/woman.jpg": "/servicestest/static/media/woman.4d28036c058319a68493.jpg",
+    "static/media/man.jpg": "/servicestest/static/media/man.4e600259a4f1958e0ef1.jpg",
+    "static/media/arcfull.png": "/servicestest/static/media/arcfull.e2f4a84575c79ef3c56a.png",
+    "static/media/promo.svg": "/servicestest/static/media/promo.a06792d7a9b5cbcb7d6cbc73339d5037.svg",
+    "static/media/hands.jpg": "/servicestest/static/media/hands.16c7bc8699095d5f76ca.jpg",
+    "static/media/logo-small.svg": "/servicestest/static/media/logo-small.bd73775a2ca1ecd953030037442593d4.svg",
     "static/media/logo.svg": "/servicestest/static/media/logo.25deabe76f7b217c991da404837ba3d8.svg",
+    "static/media/courier.svg": "/servicestest/static/media/courier.8dd28d0bf89a952cefabf31b76875780.svg",
+    "static/media/household.svg": "/servicestest/static/media/household.f4707875a172f06b30630ae7a6ee8aa9.svg",
+    "static/media/logistics.svg": "/servicestest/static/media/logistics.19a82d12a698da4c79351e77cc2d4a74.svg",
+    "static/media/finishing.svg": "/servicestest/static/media/finishing.f7043843f4da890b2303a1790d487501.svg",
+    "static/media/homebuilder.svg": "/servicestest/static/media/homebuilder.05ca826733aaf7788817af7762c4d8f1.svg",
+    "static/media/building.svg": "/servicestest/static/media/building.68bea8155f979033b0b5478b2c720163.svg",
+    "static/media/cleaning.svg": "/servicestest/static/media/cleaning.175609cf23a739989ac682df37c44154.svg",
+    "static/media/repair.svg": "/servicestest/static/media/repair.544a74fd3246b687b4ceb10fb7637d86.svg",
     "static/media/search.svg": "/servicestest/static/media/search.d342df9c3cbfea013292081f465fd0cb.svg",
     "static/media/search-white.svg": "/servicestest/static/media/search-white.f6280cd7bc61aa9f817cec8136fc22b9.svg",
     "static/media/point.svg": "/servicestest/static/media/point.52c8ea83b3ae77306293d2c6087bc9c1.svg",
-    "static/media/skeleton.svg": "/servicestest/static/media/skeleton.adf9e5f9eb93082c0c11d168dc991a99.svg",
     "index.html": "/servicestest/index.html",
+    "static/media/user.svg": "/servicestest/static/media/user.09dfae65291e3f0f071ebcd879425891.svg",
+    "static/media/message.svg": "/servicestest/static/media/message.72785c00c32526747af8eab478a82d23.svg",
     "static/media/arrow.svg": "/servicestest/static/media/arrow.58a9d8b83d335726f52dd11ca5733a5d.svg",
     "static/media/plus.svg": "/servicestest/static/media/plus.1f7fdec22c4f4f0dd55db4764194740a.svg",
-    "main.7fdf2b0e.css.map": "/servicestest/static/css/main.7fdf2b0e.css.map",
-    "main.48738814.js.map": "/servicestest/static/js/main.48738814.js.map"
+    "static/media/coral_circle.svg": "/servicestest/static/media/coral_circle.42a02895249caaae2c7bbf250c2b5572.svg",
+    "static/media/purple_circle.svg": "/servicestest/static/media/purple_circle.ba7ce65c8c2ff8a7e9ebfa1731bb9d53.svg",
+    "main.c63d8b64.css.map": "/servicestest/static/css/main.c63d8b64.css.map",
+    "main.58f36ce9.js.map": "/servicestest/static/js/main.58f36ce9.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fdf2b0e.css",
-    "static/js/main.48738814.js"
+    "static/css/main.c63d8b64.css",
+    "static/js/main.58f36ce9.js"
   ]
 }
