@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/servicestest/static/css/main.44b2d7b1.css",
+    "main.css": "/servicestest/static/css/main.7d19f324.css",
     "main.js": "/servicestest/static/js/main.c05c0fc3.js",
     "static/media/david.svg": "/servicestest/static/media/david.988374924c65546c408ed079ec8fabd1.svg",
     "static/media/man-on-arc.png": "/servicestest/static/media/man-on-arc.5f08cd668c4e924e18bf.png",
@@ -44,11 +44,11 @@
     "static/media/plus.svg": "/servicestest/static/media/plus.1f7fdec22c4f4f0dd55db4764194740a.svg",
     "static/media/coral_circle.svg": "/servicestest/static/media/coral_circle.42a02895249caaae2c7bbf250c2b5572.svg",
     "static/media/purple_circle.svg": "/servicestest/static/media/purple_circle.ba7ce65c8c2ff8a7e9ebfa1731bb9d53.svg",
-    "main.44b2d7b1.css.map": "/servicestest/static/css/main.44b2d7b1.css.map",
+    "main.7d19f324.css.map": "/servicestest/static/css/main.7d19f324.css.map",
     "main.c05c0fc3.js.map": "/servicestest/static/js/main.c05c0fc3.js.map"
   },
   "entrypoints": [
-    "static/css/main.44b2d7b1.css",
+    "static/css/main.7d19f324.css",
     "static/js/main.c05c0fc3.js"
   ]
 }
